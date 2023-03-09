@@ -1,0 +1,22 @@
+
+.container{
+    background-color: rgb(96, 105, 105);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    /* margin-left: 20px; */
+
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-right: 800px;
+}
+.navbar h2{
+    margin-left: 50px;
+}
+.icon h2{
+    margin-left: 20px;
+}
+

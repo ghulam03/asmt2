@@ -1,0 +1,41 @@
+.containero{
+background-color: cadetblue;
+display: flex;
+flex-flow: row;
+justify-content: flex-start;
+}
+.containero h4{
+    margin-left:240px ;
+}
+.containert{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.containerth{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.containertho{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+.containerto{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.followus{
+    display: flex;
+    flex-flow: row;
+    justify-content: flex-start;
+
+}
+.icon{
+    display: flex;
+    flex-direction: row;
+
+}

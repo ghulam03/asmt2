@@ -1,0 +1,29 @@
+.card{
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+margin-left: 240px;
+background-color: beige;
+width: 1200px;
+height: 400px;
+
+}
+.image{
+    width:600px;
+    background-color: rgba(101, 95, 107, 0.363);
+}
+.content{
+    display: flex;
+    flex-flow: column;
+}
+.content button{
+    width: 120px;
+}
+.icon{
+    display: flex;
+    
+    justify-content:flex-start ;
+}
+.icon p{
+    margin-left: 10px;
+}
